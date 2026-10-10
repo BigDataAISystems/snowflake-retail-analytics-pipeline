@@ -1,0 +1,20 @@
+# Secrets
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Raw datasets (download separately; see data/README.md)
+data/*.csv
+data/*.xlsx
+
+# Local outputs
+*.log
+
+# OS / IDE
+.DS_Store
+.vscode/
+.idea/
